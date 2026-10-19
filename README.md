@@ -33,6 +33,7 @@
 <a href="https://juejin.cn/user/2046660854168060" title="掘金 · 中文技术社区"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0-1E80FF?style=for-the-badge&logo=juejin&logoColor=white&labelColor=0a192f" alt="掘金"/></a>
 <a href="https://dev.to/qsianuo" title="Dev.to · 国际开发者社区"><img src="https://img.shields.io/badge/DEV.TO-qsianuo-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0a192f" alt="Dev.to"/></a>
 <a href="https://blog.csdn.net/FNXiaohuan" title="CSDN · 中文技术博客"><img src="https://img.shields.io/badge/CSDN-FNXiaohuan-FC5531?style=for-the-badge&logo=csdn&logoColor=white&labelColor=0a192f" alt="CSDN"/></a>
+<a href="https://mp.weixin.qq.com/s?__biz=MzkzODQ3MTM5Mw==&amp;mid=2247483682&amp;idx=1&amp;sn=0479b88e71621cb391e4ba2d69cc2343&amp;chksm=c35ffa4617aaf3d4ddc8201bb127eecb5a0c4cf44e67bf3a0ea9ab1ad72103e55efacf811a19&amp;mpshare=1&amp;scene=1&amp;srcid=1019Eitw05qI0eVibtB3eprE&amp;sharer_shareinfo=3f4c7bca0782fbcdbc3a1b8946f97e8b&amp;sharer_shareinfo_first=3f4c7bca0782fbcdbc3a1b8946f97e8b#rd" title="微信公众号 · 七已庵学AI"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E4%B8%83%E5%B7%B2%E5%BA%B5%E5%AD%A6AI-07C160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=0a192f" alt="微信公众号"/></a>
 
 </div>
 
@@ -190,6 +191,7 @@
 - 📡 一起讨论：网络协议、路由交换、排障方法
 - 🧰 一起复现：网络实验、课程设计、小型项目
 - 📝 一起总结：实验笔记、踩坑记录、优化经验
+- 📮 微信公众号「**七已庵学AI**」：分享 AI 实践与项目复盘
 - 🎯 交流原则：**开放 · 可复现 · 延迟最低**
 
 <div align="center">
