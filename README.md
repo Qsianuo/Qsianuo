@@ -123,6 +123,33 @@
 
 ---
 
+## 🚀 开源项目 · Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙 <a href="https://github.com/Qsianuo/echonote">EchoNote · 声记</a></h3>
+      <p>本地录音 + 实时语音转文字。faster-whisper 离线推理，FastAPI + WebSocket 流式转写，支持 WAV / TXT / Markdown / SRT 导出。</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Qsianuo/echonote?style=flat-square&color=64ffda&labelColor=0a192f" alt="stars"/>
+        <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0a192f" alt="python"/>
+        <img src="https://img.shields.io/badge/LICENSE-MIT-64ffda?style=flat-square&labelColor=0a192f" alt="license"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/Qsianuo/web-dev-agency">Web Dev Agency</a></h3>
+      <p>商业接单官网。Node.js + Express + SQLite，包含套餐展示、在线下单、会员中心、微信扫码登录（演示）与管理后台。</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Qsianuo/web-dev-agency?style=flat-square&color=64ffda&labelColor=0a192f" alt="stars"/>
+        <img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0a192f" alt="node"/>
+        <img src="https://img.shields.io/badge/LICENSE-MIT-64ffda?style=flat-square&labelColor=0a192f" alt="license"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub 数据 · Stats
 
 <div align="center">
