@@ -24,6 +24,20 @@
 
 <br/>
 
+## 🌐 技术阵地 · Find Me
+
+<div align="center">
+
+<!-- 按梯队从高到低排列，从左至右 -->
+<a href="https://x.com/Qiyian_Small" title="X · 全球技术动态"><img src="https://img.shields.io/badge/X-%40Qiyian__Small-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a192f" alt="X"/></a>
+<a href="https://juejin.cn/user/2046660854168060" title="掘金 · 中文技术社区"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0-1E80FF?style=for-the-badge&logo=juejin&logoColor=white&labelColor=0a192f" alt="掘金"/></a>
+<a href="https://dev.to/qsianuo" title="Dev.to · 国际开发者社区"><img src="https://img.shields.io/badge/DEV.TO-qsianuo-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0a192f" alt="Dev.to"/></a>
+<a href="https://blog.csdn.net/FNXiaohuan" title="CSDN · 中文技术博客"><img src="https://img.shields.io/badge/CSDN-FNXiaohuan-FC5531?style=for-the-badge&logo=csdn&logoColor=white&labelColor=0a192f" alt="CSDN"/></a>
+
+</div>
+
+<br/>
+
 ---
 
 ## 👋 `whoami`
