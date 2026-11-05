@@ -114,7 +114,7 @@
 <p>
   <img src="https://img.shields.io/github/stars/Qsianuo/echonote?color=00D4AA&labelColor=111&style=flat-square" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/Qsianuo/echonote?color=00D4AA&labelColor=111&style=flat-square" alt="Forks"/>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&labelColor=111" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 <p><b>🎤 录音 + 实时语音转文字</b></p>
@@ -124,7 +124,7 @@
 - ⚡ faster-whisper 本地推理
 - 🔌 FastAPI + WebSocket 流式转写
 - 📄 导出 WAV / TXT / SRT
-- 🪶 MIT 协议，开箱即用
+- 📜 MIT 协议，开箱即用
 
 <p>
   <a href="https://github.com/Qsianuo/echonote">
@@ -145,7 +145,7 @@
 <p>
   <img src="https://img.shields.io/github/stars/Qsianuo/web-dev-agency?color=2D8CF0&labelColor=111&style=flat-square" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/Qsianuo/web-dev-agency?color=2D8CF0&labelColor=111&style=flat-square" alt="Forks"/>
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&labelColor=111" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 <p><b>🌐 网站定制开发服务平台</b></p>
@@ -176,7 +176,7 @@
 <p>
   <img src="https://img.shields.io/github/stars/Qsianuo/fare-radar?color=FF6B6B&labelColor=111&style=flat-square" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/Qsianuo/fare-radar?color=FF6B6B&labelColor=111&style=flat-square" alt="Forks"/>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&labelColor=111" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 <p><b>✈ 多渠道机票比价工具</b></p>
@@ -186,7 +186,7 @@
 - 🖥 CLI + Web + MCP 三形态
 - 🧪 PRD → 开发 → 测试 → Issue
 - 📦 8 个版本迭代记录
-- 🪶 零依赖，纯标准库
+- 📜 零依赖，纯标准库
 
 <p>
   <a href="https://github.com/Qsianuo/fare-radar">
@@ -226,13 +226,13 @@
 
 <p>
   <img src="https://img.shields.io/github/stars/Qsianuo/2048?color=FF9800&labelColor=111&style=flat-square" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&labelColor=111" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 <p><b>🎮 打开即玩的 2048</b></p>
 
 **✨ Features:**
-- 🪶 原生 HTML / CSS / JS，零构建
+- 📜 原生 HTML / CSS / JS，零构建
 - ⌨️ 键盘 + 📱 触屏双操作
 - 🏆 本地最高分记录
 - 🌙 单文件即可部署
@@ -255,7 +255,7 @@
 
 <p>
   <img src="https://img.shields.io/github/forks/Qsianuo/yolo26-rocm-day1-labs?color=ED1C24&labelColor=111&style=flat-square" alt="Forks"/>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&labelColor=111" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 <p><b>🎯 ROCm 上的目标检测全流程</b></p>
@@ -287,7 +287,7 @@
 </h4>
 
 <p>
-  <img src="https://img.shields.io/badge/Language-Markdown-000000?style=flat-square&labelColor=111" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
 </p>
 
 <p><b>📖 第一次高质量 PR 的完整路径</b></p>
@@ -316,7 +316,7 @@
 </h4>
 
 <p>
-  <img src="https://img.shields.io/badge/Language-Shell-4EAA25?style=flat-square&labelColor=111" alt="Shell"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell"/>
 </p>
 
 <p><b>🔥 AMD ROCm 环境最小验证</b></p>
