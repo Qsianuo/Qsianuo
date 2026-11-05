@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="110" viewBox="0 0 1280 110" fill="none" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="fbgL" x1="0" y1="0" x2="1280" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F3FAFB"/>
+      <stop offset="1" stop-color="#E6F3F9"/>
+    </linearGradient>
+    <linearGradient id="fw1L" x1="0" y1="0" x2="1280" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00C79E" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#0077BE" stop-opacity="0.16"/>
+    </linearGradient>
+    <linearGradient id="fw2L" x1="0" y1="30" x2="1280" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D4AA" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0077BE" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="110" fill="url(#fbgL)"/>
+  <path d="M0,44 C160,20 320,62 500,54 C680,46 840,16 1010,32 C1150,45 1215,60 1280,54 L1280,110 L0,110 Z" fill="url(#fw2L)"/>
+  <path d="M0,62 C170,40 330,80 510,72 C690,64 850,36 1010,52 C1150,66 1215,80 1280,74 L1280,110 L0,110 Z" fill="url(#fw1L)"/>
+  <text x="640" y="76" text-anchor="middle" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="20" font-weight="700" fill="#2A5064" letter-spacing="3">Thanks for visiting!</text>
+</svg>

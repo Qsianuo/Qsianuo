@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" fill="none" role="img" aria-label="Qsianuo · 网络技术 / Web 开发 / 数据分析">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#040d16"/>
+      <stop offset="0.5" stop-color="#07263a"/>
+      <stop offset="1" stop-color="#03121c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="300" y1="0" x2="980" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D4AA"/>
+      <stop offset="0.55" stop-color="#22B8D6"/>
+      <stop offset="1" stop-color="#3AA0FF"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="236" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D4AA" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0077BE" stop-opacity="0.22"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="272" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D4AA" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#0077BE" stop-opacity="0.5"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00D4AA" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#00D4AA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3AA0FF" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#3AA0FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="340" fill="url(#bg)"/>
+
+  <g stroke="#173a52" stroke-width="1" opacity="0.45">
+    <path d="M128 0V340M256 0V340M384 0V340M512 0V340M640 0V340M768 0V340M896 0V340M1024 0V340M1152 0V340"/>
+    <path d="M0 64H1280M0 128H1280M0 192H1280M0 256H1280"/>
+  </g>
+
+  <ellipse cx="250" cy="60" rx="330" ry="190" fill="url(#glowA)"/>
+  <ellipse cx="1040" cy="90" rx="360" ry="200" fill="url(#glowB)"/>
+
+  <path d="M0,266 C150,232 300,298 470,284 C640,270 790,228 960,246 C1110,262 1200,294 1280,282 L1280,340 L0,340 Z" fill="url(#wave1)"/>
+  <path d="M0,300 C170,276 330,318 510,308 C690,298 850,270 1010,286 C1150,300 1215,318 1280,310 L1280,340 L0,340 Z" fill="url(#wave2)"/>
+
+  <g font-family="'Segoe UI','PingFang SC','Microsoft YaHei',system-ui,-apple-system,sans-serif" text-anchor="middle">
+    <text x="640" y="146" font-size="78" font-weight="800" fill="url(#accent)" letter-spacing="2">Qsianuo</text>
+    <text x="640" y="192" font-size="25" font-weight="600" fill="#A9C4D6" letter-spacing="6">网络技术 · Web 开发 · 数据分析</text>
+    <text x="640" y="228" font-size="13" font-weight="600" fill="#5B7F96" letter-spacing="5">NETWORK · WEB · DATA</text>
+  </g>
+
+  <g fill="#00D4AA" opacity="0.85">
+    <circle cx="72" cy="170" r="3"/>
+    <circle cx="1208" cy="170" r="3"/>
+  </g>
+</svg>
