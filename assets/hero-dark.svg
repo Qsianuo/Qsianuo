@@ -1,54 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" fill="none" role="img" aria-label="Qsianuo · 网络技术 / Web 开发 / 数据分析">
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360" fill="none" role="img" aria-label="Qsianuo — AI Machine Vision Engineer">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#040d16"/>
-      <stop offset="0.5" stop-color="#07263a"/>
-      <stop offset="1" stop-color="#03121c"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1440" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060B18"/><stop offset=".52" stop-color="#0A1930"/><stop offset="1" stop-color="#071326"/>
     </linearGradient>
-    <linearGradient id="accent" x1="300" y1="0" x2="980" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#00D4AA"/>
-      <stop offset="0.55" stop-color="#22B8D6"/>
-      <stop offset="1" stop-color="#3AA0FF"/>
+    <linearGradient id="accent" x1="88" y1="96" x2="820" y2="278" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75F7DE"/><stop offset=".48" stop-color="#38CFEA"/><stop offset="1" stop-color="#7796FF"/>
     </linearGradient>
-    <linearGradient id="wave1" x1="0" y1="236" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#00D4AA" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#0077BE" stop-opacity="0.22"/>
+    <linearGradient id="ring" x1="930" y1="55" x2="1260" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#76F7DE"/><stop offset=".55" stop-color="#3DB9EA"/><stop offset="1" stop-color="#7B83FF"/>
     </linearGradient>
-    <linearGradient id="wave2" x1="0" y1="272" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#00D4AA" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#0077BE" stop-opacity="0.5"/>
-    </linearGradient>
-    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#00D4AA" stop-opacity="0.30"/>
-      <stop offset="1" stop-color="#00D4AA" stop-opacity="0"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(380 0 0 270 1110 175)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#247CD5" stop-opacity=".24"/><stop offset="1" stop-color="#247CD5" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#3AA0FF" stop-opacity="0.26"/>
-      <stop offset="1" stop-color="#3AA0FF" stop-opacity="0"/>
+    <radialGradient id="lens" cx="0" cy="0" r="1" gradientTransform="matrix(0 138 -138 0 1090 174)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173E62"/><stop offset=".62" stop-color="#0B2039"/><stop offset="1" stop-color="#091629"/>
     </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#31506D" stroke-opacity=".24"/>
+      <circle cx="1" cy="1" r="1" fill="#5ABED4" fill-opacity=".28"/>
+    </pattern>
+    <filter id="blur" x="780" y="-30" width="600" height="410" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="25"/>
+    </filter>
   </defs>
-
-  <rect width="1280" height="340" fill="url(#bg)"/>
-
-  <g stroke="#173a52" stroke-width="1" opacity="0.45">
-    <path d="M128 0V340M256 0V340M384 0V340M512 0V340M640 0V340M768 0V340M896 0V340M1024 0V340M1152 0V340"/>
-    <path d="M0 64H1280M0 128H1280M0 192H1280M0 256H1280"/>
+  <rect width="1440" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1440" height="360" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1110" cy="175" rx="295" ry="205" fill="url(#glow)" filter="url(#blur)"/>
+  <path d="M0 315H1440" stroke="#31506D" stroke-opacity=".5"/>
+  <path d="M0 314H560" stroke="url(#accent)" stroke-width="2" stroke-opacity=".7"/>
+  <path d="M760 0V360M796 0V360M832 0V360" stroke="#25425D" stroke-opacity=".22" stroke-dasharray="3 9"/>
+  <g opacity=".45" stroke="#6BDCE5" stroke-width="1.2">
+    <path d="M865 64h34v-22h24M1307 75h42v30h28M862 282h-34v24h-28M1300 285h42v-26h28"/>
+    <circle cx="923" cy="42" r="3" fill="#6BDCE5"/><circle cx="1377" cy="105" r="3" fill="#6BDCE5"/>
+    <circle cx="800" cy="306" r="3" fill="#6BDCE5"/><circle cx="1370" cy="259" r="3" fill="#6BDCE5"/>
   </g>
-
-  <ellipse cx="250" cy="60" rx="330" ry="190" fill="url(#glowA)"/>
-  <ellipse cx="1040" cy="90" rx="360" ry="200" fill="url(#glowB)"/>
-
-  <path d="M0,266 C150,232 300,298 470,284 C640,270 790,228 960,246 C1110,262 1200,294 1280,282 L1280,340 L0,340 Z" fill="url(#wave1)"/>
-  <path d="M0,300 C170,276 330,318 510,308 C690,298 850,270 1010,286 C1150,300 1215,318 1280,310 L1280,340 L0,340 Z" fill="url(#wave2)"/>
-
-  <g font-family="'Segoe UI','PingFang SC','Microsoft YaHei',system-ui,-apple-system,sans-serif" text-anchor="middle">
-    <text x="640" y="146" font-size="78" font-weight="800" fill="url(#accent)" letter-spacing="2">Qsianuo</text>
-    <text x="640" y="192" font-size="25" font-weight="600" fill="#A9C4D6" letter-spacing="6">网络技术 · Web 开发 · 数据分析</text>
-    <text x="640" y="228" font-size="13" font-weight="600" fill="#5B7F96" letter-spacing="5">NETWORK · WEB · DATA</text>
+  <g transform="translate(1090 176)">
+    <circle r="145" stroke="#4B89AF" stroke-opacity=".18" stroke-width="1"/>
+    <circle r="128" fill="url(#lens)" stroke="url(#ring)" stroke-opacity=".75" stroke-width="2"/>
+    <circle r="111" stroke="#5ABED4" stroke-opacity=".36" stroke-dasharray="3 8"/>
+    <circle r="91" fill="#0B172B" stroke="#5D9FBE" stroke-opacity=".62" stroke-width="2"/>
+    <path d="M-58-70 0-88 58-70 82-14 62 52 0 84-62 52-82-14Z" fill="#102B49" stroke="#67DCD7" stroke-opacity=".52" stroke-width="1.5"/>
+    <path d="M-48-47 0-68 48-47 65-2 43 44 0 62-43 44-65-2Z" fill="#0B1C32" stroke="#488DAE" stroke-opacity=".75"/>
+    <circle r="31" fill="#0D2F4A" stroke="#6FE5DA" stroke-width="2" stroke-opacity=".8"/>
+    <circle r="14" fill="#071321" stroke="#7EA5FF" stroke-width="2"/>
+    <circle r="5" fill="#A1FFF0"/>
+    <path d="M-160 0H-122M122 0H160M0-160V-122M0 122V160" stroke="#76EBDD" stroke-opacity=".55"/>
+    <path d="M-190-118h44v-24M190-118h-44v-24M-190 118h44v24M190 118h-44v24" stroke="url(#ring)" stroke-width="2" stroke-linecap="round"/>
   </g>
-
-  <g fill="#00D4AA" opacity="0.85">
-    <circle cx="72" cy="170" r="3"/>
-    <circle cx="1208" cy="170" r="3"/>
+  <g stroke="#6FE5DA" stroke-width="2" opacity=".9">
+    <path d="M982 89h-31v31M1198 89h31v31M982 263h-31v-31M1198 263h31v-31"/>
+  </g>
+  <g fill="#85F5E2">
+    <circle cx="1007" cy="80" r="2.5"/><circle cx="1246" cy="176" r="2.5"/><circle cx="1090" cy="331" r="2.5"/>
+  </g>
+  <g font-family="'Segoe UI','PingFang SC','Microsoft YaHei',system-ui,sans-serif">
+    <text x="96" y="113" fill="#F3FAFF" font-size="64" font-weight="800" letter-spacing="-1.5">Qsianuo</text>
+    <text x="99" y="169" fill="url(#accent)" font-size="25" font-weight="800" letter-spacing="4.5">AI MACHINE VISION</text>
+    <text x="99" y="214" fill="#B6C9DC" font-size="22" font-weight="600" letter-spacing="1.2">工业成像 · 目标检测 · 模型推理部署</text>
+    <path d="M99 243H485" stroke="#42627D" stroke-width="1"/>
+    <path d="M99 243H220" stroke="url(#accent)" stroke-width="2.5"/>
+    <text x="99" y="278" fill="#7693AA" font-size="12" font-weight="700" letter-spacing="3.2">COMPUTER VISION  /  INDUSTRIAL IMAGING  /  INFERENCE</text>
+    <text x="1344" y="329" fill="#5F819B" font-size="10" text-anchor="end" letter-spacing="2.5">VISION SYSTEMS · 2026</text>
   </g>
 </svg>
