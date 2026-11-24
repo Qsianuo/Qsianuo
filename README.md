@@ -4,7 +4,7 @@
 
 **AI Machine Vision · Industrial Imaging · Vision Inference**
 
-专注 AI 机器视觉应用，围绕工业成像、视觉方案设计、目标检测与推理部署持续实践。
+专注 AI 机器视觉应用，围绕工业成像、视觉方案设计、目标检测与模型推理部署持续实践。
 
 [核心项目](#featured-project) · [技术实验](#experiments) · [工程方法](#engineering-approach)
 
@@ -52,17 +52,6 @@
 **需求量化 → 样本验证 → 方案计算 → 实现与测试 → 结果复核**
 
 我更关注工程结论能否被复现和检查：关键参数有计算依据，实验数据有记录，测试结果与已知限制明确区分。
-
-## Other Projects
-
-<details>
-<summary>其他工程实践（与当前机器视觉主线区分展示）</summary>
-
-- **[EchoNote](https://github.com/Qsianuo/echonote)** — 本地录音与实时语音转写工具，关注离线运行、隐私和跨端体验。
-- **[FareRadar](https://github.com/Qsianuo/fare-radar)** — Python 机票比价演示工具，包含 CLI、Web 与 MCP Server。
-- **[First PR Playbook](https://github.com/Qsianuo/first-pr-playbook)** — 从问题复现、根因分析到测试、Code Review 的开源贡献实践指南。
-
-</details>
 
 ---
 
